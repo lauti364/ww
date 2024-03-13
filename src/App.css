@@ -1,0 +1,22 @@
+header {background-color: rgb(171, 104, 235);
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;}
+  nav {
+    display: flex;
+    gap: 90px;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  .logo {
+    width: 50px;}
+body{margin: 0;background-image:url(../public/data/img/f4.jpg)
+}
+.fot{background-color: beige;color: black;padding: 10px;}
